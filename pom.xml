@@ -41,6 +41,13 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.mobicents.smsc</groupId>
+			<artifactId>smpp-simulator</artifactId>
+			<version>3.0.27</version>
+		</dependency>
+	<!-- Thanks for using https://jar-download.com -->
+	
 	</dependencies>
 
 	<build>
